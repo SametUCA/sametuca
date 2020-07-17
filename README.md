@@ -1,7 +1,7 @@
 # Hello
 
-![GitHub followers](https://img.shields.io/github/followers/sametuca?label=Follow&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/samettuca?label=Twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/sametuca?label=Follow @sametuca&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/samettuca?label=Twitter @samettuca&style=for-the-badge)
 
 I am a software developer and Information Tecnology currently living in Türkiye. My interests range from technology to design. I am also interested in web development and programming.
 
