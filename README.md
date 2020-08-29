@@ -1,5 +1,5 @@
 Hello.
-I am a software developer and Information Tecnology currently living in Türkiye. My interests range from technology to design. I am also interested in web development and programming.
+I am a software developer currently living in Türkiye. My interests range from technology to design. I am also interested in web development and programming.
 
 You can click the button above to view my repo. If you’d like to get in touch, feel free to say hello through any of the social links below.
 
