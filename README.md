@@ -11,6 +11,7 @@ You can click the button above to view my repo. If you’d like to get in touch,
   <td>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SametUCA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </td>
+</tr>
 ![GitHub followers](https://img.shields.io/github/followers/sametuca?label=Github%20%40sametuca&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/samettuca?label=twitter%20%40samettuca&style=for-the-badge)
 
