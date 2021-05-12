@@ -5,6 +5,10 @@ I am a software developer currently living in Türkiye. My interests range from 
 
 You can click the button above to view my repo. If you’d like to get in touch, feel free to say hello through any of the social links below.
 
+<a href="https://github.com/JFASOF/JFASOF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SametUCA&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="JFA's GitHub Stats" />
+</a>
+
 ![GitHub followers](https://img.shields.io/github/followers/sametuca?label=Github%20%40sametuca&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/samettuca?label=twitter%20%40samettuca&style=for-the-badge)
 
