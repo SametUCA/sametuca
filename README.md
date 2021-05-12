@@ -5,7 +5,7 @@ I am a software developer currently living in Türkiye. My interests range from 
 
 You can click the button above to view my repo. If you’d like to get in touch, feel free to say hello through any of the social links below.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SametUCA&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SametUCA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
